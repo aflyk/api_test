@@ -89,8 +89,6 @@ DATABASES = {
             'options': '-c search_path=api',
         },
         'NAME': 'minzdrav_api',
-        'USER': 'django_user',
-        'PASSWORD': "6aMf2UDzfCYULKc",
         'HOST': "10.4.3.111",
         'PORT': '5432'
     },
